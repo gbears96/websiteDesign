@@ -1,8 +1,8 @@
 /* Universal Styles
-color: #2d5dcc -- cool blue
-color: #d957d9 -- pink
-color: #4fe0b0 -- mint green
-color: #efd9ca -- beige
+color: #003262 -- berkeley blue
+color: #3B7EA1 -- founder's rock
+color: #FDB515 -- california gold
+color: #C4820E -- medalist
 */
 
 /* Fonts
@@ -75,32 +75,34 @@ p {
     text-align:center;
     padding: 10px;
 }
-.cool-blue {
-    background-color: #2d5dcc;
+
+.color-panel p {
+    font-size: 16px;
+}
+
+.berkeley-blue {
+    background-color: #003262;
     color: white;
     font-weight: 400;
-    font-size: 14px;
     font-family: 'poppins';
 }
-.pink {
-    background-color: #d957d9;
-    color: black;
+
+.founders-rock {
+    background-color: #3B7EA1;
+    color: white;
     font-weight: 400;
-    font-size: 14px;
     font-family: 'poppins';
 }
-.mint-green {
-    background-color: #4fe0b0;
+.california-gold {
+    background-color: #FDB515;
     color: black;
     font-weight: 400;
-    font-size: 14px;
     font-family: 'poppins';
 }
-.beige {
-    background-color: #efd9ca;
+.medalist {
+    background-color: #C4820E;
     color: black;
     font-weight: 400;
-    font-size: 14px;
     font-family: 'poppins';
 }
 
